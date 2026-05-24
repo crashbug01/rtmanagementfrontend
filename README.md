@@ -16,8 +16,8 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi frontend di lingkungan 
 ### 1. Klon Repositori
 
 ```bash
-git clone [https://github.com/crashbug01/rtmanagementfrontend.git]
-cd nama-repo-frontend
+git clone https://github.com/crashbug01/rtmanagementfrontend.git
+cd rtmanagementfrontend
 ```
 
 ### 2. Instal Dependensi Node.js
