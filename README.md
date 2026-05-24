@@ -16,7 +16,7 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi frontend di lingkungan 
 ### 1. Klon Repositori
 
 ```bash
-git clone [https://github.com/username/nama-repo-frontend.git](https://github.com/username/nama-repo-frontend.git)
+git clone [https://github.com/crashbug01/rtmanagementfrontend.git]
 cd nama-repo-frontend
 ```
 
